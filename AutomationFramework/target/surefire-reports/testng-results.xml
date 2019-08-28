@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="23200" started-at="2019-08-24T16:22:22Z" finished-at="2019-08-24T16:22:45Z">
+    <groups>
+    </groups>
+    <test name="Parabank" duration-ms="23200" started-at="2019-08-24T16:22:22Z" finished-at="2019-08-24T16:22:45Z">
+      <class name="TestCases.TC_01">
+        <test-method status="PASS" signature="start()[pri:0, instance:TestCases.TC_01@1e643faf]" name="start" is-config="true" duration-ms="11963" started-at="2019-08-24T21:52:22Z" finished-at="2019-08-24T21:52:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="Registration()[pri:0, instance:TestCases.TC_01@1e643faf]" name="Registration" duration-ms="11101" started-at="2019-08-24T21:52:34Z" finished-at="2019-08-24T21:52:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.TC_01@1e643faf]" name="tearDown" is-config="true" duration-ms="125" started-at="2019-08-24T21:52:45Z" finished-at="2019-08-24T21:52:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC_01 -->
+    </test> <!-- Parabank -->
+  </suite> <!-- Suite1 -->
+</testng-results>

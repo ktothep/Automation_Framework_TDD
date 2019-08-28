@@ -1,0 +1,10 @@
+<suite name="Suite1" verbose="1" >
+ <listeners>
+<listener class-name="Listener.Listen"/>
+ </listeners>
+  <test name="Parabank" >
+    <classes>
+       <class name="TestCases.TC_01" />
+    </classes>
+  </test>
+</suite>
